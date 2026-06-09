@@ -1,0 +1,20 @@
+[
+  {
+    "id": "job_001",
+    "category": "job",
+    "title": "大模型应用开发岗位能力",
+    "content": "大模型应用开发岗位通常关注 Python、FastAPI、RAG、Agent、LangChain 或 LangGraph、向量数据库、Prompt 设计、模型服务调用和 Docker 部署。"
+  },
+  {
+    "id": "job_002",
+    "category": "job",
+    "title": "Agent 应用开发岗位能力",
+    "content": "Agent 应用开发重点包括任务规划、工具调用、状态管理、条件路由、多 Agent 协作、结果校验、记忆机制和可观测性。"
+  },
+  {
+    "id": "job_003",
+    "category": "job",
+    "title": "模型微调岗位能力",
+    "content": "模型微调岗位通常关注 Transformers、PEFT、LoRA 或 QLoRA、SFT 数据构造、训练参数配置、显存优化、模型评估和推理部署。"
+  }
+]

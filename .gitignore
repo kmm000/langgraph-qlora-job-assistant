@@ -1,0 +1,66 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+.conda/
+
+# IDE
+.idea/
+.vscode/
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# 上传文件与隐私数据
+uploads/
+*.pdf
+*.docx
+*.xlsx
+
+# 模型权重
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# 微调输出
+finetune/output/
+checkpoints/
+checkpoint-*/
+
+# ChromaDB、SQLite、缓存
+data/chroma_db/
+data/observability.db
+data/analysis_cache.db
+*.db
+*.sqlite
+*.sqlite3
+
+# 日志
+logs/
+*.log
+
+# 运行缓存
+.cache/
+huggingface/
+wandb/
+runs/
+
+# 系统文件
+.DS_Store
+Thumbs.db

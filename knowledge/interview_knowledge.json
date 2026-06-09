@@ -1,0 +1,26 @@
+[
+  {
+    "id": "interview_001",
+    "category": "interview",
+    "title": "LangGraph 面试知识",
+    "content": "LangGraph 使用 StateGraph 描述有状态工作流。节点负责处理状态，边负责定义执行顺序或条件路由。多 Agent 系统可以使用 Supervisor 或显式图结构完成任务分发。"
+  },
+  {
+    "id": "interview_002",
+    "category": "interview",
+    "title": "RAG 面试知识",
+    "content": "RAG 一般包含文档加载、文本切分、Embedding、向量库存储、查询向量化、Top-K 检索、Prompt 拼接和大模型生成等步骤。"
+  },
+  {
+    "id": "interview_003",
+    "category": "interview",
+    "title": "LoRA 面试知识",
+    "content": "LoRA 冻结基础模型权重，只训练低秩适配矩阵，从而降低训练参数量和显存占用。QLoRA 在此基础上对基础模型进行 4bit 量化。"
+  },
+  {
+    "id": "interview_004",
+    "category": "interview",
+    "title": "FastAPI 面试知识",
+    "content": "FastAPI 基于 Python 类型提示和 Pydantic 实现参数校验，并能自动生成 OpenAPI 和 Swagger 接口文档。"
+  }
+]

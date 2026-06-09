@@ -1,0 +1,26 @@
+[
+  {
+    "id": "resume_case_001",
+    "category": "resume_case",
+    "title": "多 Agent 项目经历优化案例",
+    "content": "面向 Agent 应用开发岗位，项目经历应明确说明使用 LangGraph 进行工作流编排，拆分 ResumeAgent、JDAgent、MatchAgent、RewriteAgent、ReviewAgent 和 InterviewAgent，并说明 FastAPI 后端、Streamlit 前端以及结果校验机制。"
+  },
+  {
+    "id": "resume_case_002",
+    "category": "resume_case",
+    "title": "RAG 项目经历优化案例",
+    "content": "面向 RAG 应用开发岗位，项目描述应覆盖文档加载、文本切分、Embedding 向量化、ChromaDB 向量存储、Top-K 相似度检索以及检索结果拼接到 Prompt 的完整流程。"
+  },
+  {
+    "id": "resume_case_003",
+    "category": "resume_case",
+    "title": "FastAPI 项目经历优化案例",
+    "content": "面向 Python 后端或大模型应用岗位，可以突出使用 FastAPI 开发接口、Pydantic 参数校验、文件上传、Swagger 接口调试、异常处理以及前后端联调。"
+  },
+  {
+    "id": "resume_case_004",
+    "category": "resume_case",
+    "title": "LoRA 微调项目经历优化案例",
+    "content": "LoRA 项目经历应说明基础模型、指令数据构造、QLoRA 训练方式、Adapter 保存与加载，以及基础模型和 LoRA 模型在格式遵循率、条目合格率和风险词命中数方面的对比评估。"
+  }
+]

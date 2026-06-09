@@ -1,0 +1,15 @@
+岗位名称：大模型应用开发实习生
+
+岗位职责：
+1. 参与大模型应用系统开发，包括 RAG、Agent、知识库问答、多轮对话等功能。
+2. 使用 FastAPI 或 Flask 开发后端接口。
+3. 参与 LangChain、LangGraph 等大模型应用框架的开发和调试。
+4. 支持模型微调、Prompt 优化、工具调用和业务流程编排。
+5. 配合前端完成系统联调和部署。
+
+岗位要求：
+1. 熟悉 Python 编程。
+2. 熟悉 FastAPI、LangChain、RAG、Agent、向量数据库。
+3. 了解大模型 API 调用、Prompt Engineering、LoRA 微调。
+4. 了解 Docker、Linux、Git。
+5. 有机器学习、深度学习、PyTorch 项目经验优先。
