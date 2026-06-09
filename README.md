@@ -317,7 +317,7 @@ finetune/output/base_vs_lora_eval_results.json
 计算提升率：
 
 ```bash
-python -X utf8 finetune/calculate_improvement.py
+python -X utf8 finetune/eval_compare.py
 ```
 
 ## 主要接口
@@ -394,21 +394,15 @@ logs/
 
 ## 项目截图
 
-将截图放到：
+### 系统首页
 
-```text
-docs/images/
-```
-
-README 中可以这样引用：
-
-```markdown
 ![系统首页](docs/images/home.png)
 
-![分析结果](docs/images/result.png)
+### 分析结果
 
-![Agent 调用链](../docs/images/trace.png)
-```
+![分析结果一](docs/images/result1.png)
+
+![分析结果二](docs/images/result2.png)
 
 ## 注意事项
 
